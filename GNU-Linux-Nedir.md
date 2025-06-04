@@ -1,4 +1,13 @@
 
+<!-- 
+
+Eklenecekler :
+	* Linux vs Unix
+	
+ -->
+
+
+<!-- İçindekiler -->
 # İçindekiler
 - [Giriş](#giriş)
 - [Özgür Yazılım Hareketi](#özgür-yazılım-hareketi)
