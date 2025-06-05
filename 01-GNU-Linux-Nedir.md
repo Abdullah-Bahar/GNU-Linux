@@ -1,11 +1,9 @@
-
 <!-- 
 
 Eklenecekler :
 	* Linux vs Unix
 	
  -->
-
 
 <!-- İçindekiler -->
 # İçindekiler

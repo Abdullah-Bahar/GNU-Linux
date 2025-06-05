@@ -1,4 +1,3 @@
-
 <!-- İçindekiler -->
 # İçindekiler
 - [Giriş](#giriş)

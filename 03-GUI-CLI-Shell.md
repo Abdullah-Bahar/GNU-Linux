@@ -1,3 +1,4 @@
+<!-- İçindekiler -->
 # İçindekiler
 - [Bilgisayarla İletişim Kurmak: GUI ve CLI](#bilgisayarla-i̇letişim-kurmak--gui-ve-cli)
 	- [GUI (Grafik Kullanıcı Arayüzü)](#gui-grafik-kullanıcı-arayüzü) 
@@ -12,6 +13,7 @@
 
 <br>
 
+<!-- Bilgisayarla İletişim Kurmak : GUI ve CLI -->
 # Bilgisayarla İletişim Kurmak : GUI ve CLI 
 
 Bir bilgisayarı kullanmak, onun içerisindeki donanıma erişmek ve bu donanımı yönetmek anlamına gelir. İşte bu erişim ve yönetim, ***İşletim Sistemleri*** aracılığıyla mümkün olur. Yani, kullanıcılar işletim sistemiyle etkileşime girerek donanıma hükmeder.
@@ -57,6 +59,7 @@ Bilgisayarı kullanmamızı sağlayan işletim sistemleri, kullanıcı ve donan�
 
 <br>
 
+<!-- GNU/Linux'ta GUI ve CLI -->
 # GNU/Linux'ta GUI ve CLI
 
 GNU/Linux, hem grafiksel arayüzün (GUI) rahatlığını hem de komut satırı arayüzünün (CLI) gücünü sunan esnek bir işletim sistemidir. Hedeflenen amaca ve kullanıcıları taleplerine göre hangi arayüzün kullanılacağı değişebilir. 
@@ -65,6 +68,7 @@ GUI'nin aksine CLI, Linux üzerindeki neredeyse her şeyin yapılmasına olanak 
 
 <br>
 
+<!-- Desktop Environment (Masaüstü Ortamı) -->
 # Desktop Environment (Masaüstü Ortamı)
 
 Bilgisayarların görsel olarak kullanılması sağlayan GUI, karşımıza genellikle "Masaüstü Ortamı" şeklinde çıkar. 
@@ -87,6 +91,7 @@ Linux'un sunmuş olduğu masaüstü ortamlarından bazıları :
 
 <br>
 
+<!-- Terminal ve Shell (Kabuk) -->
 # Terminal ve Shell (Kabuk)
 
 Linux dünyasına adım atarken doğrudan komutlara odaklanmadan önce bu komutların yazıldığı yapıyı anlamak kritik öneme sahiptir. Tam da bu noktada karşımıza ***Terminal*** ve ***Shell*** kavramları çıkıyor.
@@ -130,6 +135,8 @@ Masaüstü ortamlarının farklı marka modelleri olduğu gibi Shell'in de marka
 
 <br>
 
+
+<!-- Terminal Ekranı -->
 # Terminal Ekranı
 
 Linux'u komut satırı aracılığıyla kullanmak için, komutları doğrudan çalıştırmaya başlamadan önce etkileşim kurulan arayüzü, yani Terminal ekranını tanımak gerekir. Komutların yazıldığı ve sistem çıktılarının gözüktüğü bu ekran, Linux ile konuşulan yerdir.
@@ -158,6 +165,7 @@ Yukarıdaki görselde de gözükeceği üzere, Terminal ekranında bir **Komut �
 
 <br>
 
+<!-- Terminal Kısayolları -->
 # Terminal Kısayolları
 
 Terminal ekranınında kullanılan kısayollar :
